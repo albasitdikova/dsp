@@ -61,7 +61,7 @@ CohenEffectSize(firsts.totalwgt_lb, others.totalwgt_lb)
 
 
 
-## Solution
+## Solution 
 
 d = -0.089
 
