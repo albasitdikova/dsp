@@ -30,7 +30,7 @@
     "    var2 = group2.var()\n",
     "    n1, n2 = len(group1), len(group2)\n",
     "\n",
-    "    pooled_var = (n1 * var1 + n2 * var2) / (n1 + n2)\n",
+    "    pooled_var = (n1 * var1  + n2 * var2) / (n1 + n2)\n",
     "    d = diff / np.sqrt(pooled_var)\n",
     "    return d"
    ]
